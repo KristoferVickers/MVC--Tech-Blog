@@ -4,7 +4,7 @@
 
 ## Description
 
-Howdy 
+This project will not work. I am turing it in as is and will get with a tutor in the future to help me redo the project. I had issues that I got fixed over break and Ill just be honest I was burnt out in before break so I had no drive to even touch this project. 
 
 ## URL's
 
