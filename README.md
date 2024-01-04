@@ -11,3 +11,5 @@ This project will not work. I am turing it in as is and will get with a tutor in
 https://github.com/KristoferVickers/MVC-Tech-Blog
 
 ## Screenshot 
+
+<img src="Assets\config\views\MVC-tech_blog.png"> 
