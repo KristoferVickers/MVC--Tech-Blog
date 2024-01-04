@@ -4,7 +4,7 @@
 
 ## Description
 
-This project will not work. I am turing it in as is and will get with a tutor in the future to help me redo the project. I had issues that I got fixed over break and Ill just be honest I was burnt out in before break so I had no drive to even touch this project. Most of the work done to this project was code that I had taken from the mini challenge to get a good base. 
+This project will not work. I am turing it in as is and will get with a tutor in the future to help me redo the project. I had issues that I got fixed over break and Ill just be honest I was burnt out in the week before break so I had no drive to even touch this project. Most of the work done to this project was code that I had taken from the mini challenge to get a good base. 
 
 ## URL's
 
